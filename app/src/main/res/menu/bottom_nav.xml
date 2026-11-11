@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_live" android:icon="@drawable/ic_signal" android:title="Live" />
+    <item android:id="@+id/nav_walk" android:icon="@drawable/ic_walk" android:title="Walk" />
+    <item android:id="@+id/nav_spots" android:icon="@drawable/ic_list" android:title="Spots" />
+    <item android:id="@+id/nav_map" android:icon="@drawable/ic_map" android:title="Map" />
+</menu>

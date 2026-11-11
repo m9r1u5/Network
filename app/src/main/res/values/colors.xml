@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="card_bg">#F1F4F9</color>
+    <color name="text_muted">#5F6B7A</color>
+    <color name="sig_good">#2E9E44</color>
+    <color name="sig_fair">#E0A800</color>
+    <color name="sig_poor">#EF6C00</color>
+    <color name="sig_bad">#D32F2F</color>
+    <color name="launcher_bg">#0D47A1</color>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SignalFinder" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/primary</item>
+    </style>
+
+    <style name="SF.Card" parent="Widget.Material3.CardView.Filled">
+        <item name="cardBackgroundColor">@color/card_bg</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="contentPadding">16dp</item>
+    </style>
+
+    <style name="SF.Label" parent="">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text_muted</item>
+    </style>
+
+    <style name="SF.Value" parent="">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="SF.BigButton" parent="Widget.Material3.Button">
+        <item name="android:textSize">18sp</item>
+        <item name="android:minHeight">60dp</item>
+    </style>
+
+    <style name="SF.OutlineButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textSize">16sp</item>
+        <item name="android:minHeight">56dp</item>
+    </style>
+</resources>
